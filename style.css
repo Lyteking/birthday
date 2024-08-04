@@ -4,7 +4,7 @@ body {
     font-style: normal;
     background-color: pink;
     width: 100%;
-    margin-top: 0;
+    margin: 0;
 }
 #pic {
     width: 300px;
@@ -65,5 +65,5 @@ video {
     height: 180px;
 }
 #imm {
-    width: 250px;
+    width: 200px;
 }
