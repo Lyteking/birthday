@@ -53,7 +53,7 @@ video {
 }
 .albums {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
 }
 .section {
     display: flex;
