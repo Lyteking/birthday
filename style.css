@@ -6,6 +6,7 @@ body {
     width: 100%;
     margin: 0;
     font-weight: bolder;
+    background: linear-gradient(to bottom right, rgb(168, 116, 124), rgb(206, 80, 101), pink);
 }
 #pic {
     width: 300px;
@@ -20,11 +21,12 @@ body {
 #head {
     text-shadow: 0 0 20px blue;
     text-align: center;
-    background-image: url(giphy\ \(2\).webp);
+    background-image: url();
     background-repeat: no-repeat;
     background-size: cover;
     padding: 10px 0;
     margin-bottom: 1px;
+    
 }
 #tophead {
     margin: 0;
@@ -37,6 +39,8 @@ video {
 #gift {
     text-align: center;
     border-top: 10px solid white;
+    margin-top: 10px;
+    padding: 10px 0;
 }
 .vid  {
     border-bottom: 30px dotted white;
@@ -53,8 +57,9 @@ video {
     border: 5px dotted white;
     margin-bottom: 5px;
     padding: 10px 5px;
-    background-image: url(giphy.webp);
+    background-image: url();
     background-size: cover;
+    
 }
 .name {
     text-decoration: underline 2px pink
