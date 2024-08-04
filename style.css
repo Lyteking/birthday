@@ -23,6 +23,8 @@ body {
     background-image: url(giphy\ \(2\).webp);
     background-repeat: no-repeat;
     background-size: cover;
+    padding: 10px 0;
+    margin-bottom: 1px;
 }
 #tophead {
     margin: 0;
@@ -46,11 +48,7 @@ video {
     display: flex;
     justify-content: center;
 }
-#header {
-    background-color: pink;
-    margin-bottom: 30px;
-    padding: 10px 100px;
-}
+
 .messages {
     border: 5px dotted white;
     margin-bottom: 5px;
@@ -59,7 +57,7 @@ video {
     background-size: cover;
 }
 .name {
-    text-decoration: underline 2px rgb(235, 120, 139);
+    text-decoration: underline 2px pink
 }
 .albums {
     display: flex;
