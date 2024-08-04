@@ -4,6 +4,7 @@ body {
     font-style: normal;
     background-color: pink;
     width: 100%;
+    margin-top: 0;
 }
 #pic {
     width: 300px;
@@ -37,4 +38,16 @@ video {
 #alb {
     display: flex;
     justify-content: center;
+}
+#header {
+    background-color: skyblue;
+    margin: 0;
+    padding: 8px 100px;
+}
+.messages {
+    border: 5px dotted white;
+    margin-bottom: 5px;
+}
+.name {
+    text-decoration: underline 2px rgb(235, 120, 139);
 }
