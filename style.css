@@ -7,6 +7,10 @@ body {
     margin: 0;
     font-weight: bolder;
 }
+#header {
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
 #pic {
     width: 300px;
     border-radius: 100%;
@@ -18,11 +22,9 @@ body {
     color: white;
 }
 #head {
-    text-shadow: 0 0 20px blue;
+    text-shadow: 3px 2px  3px black;
     text-align: center;
-    background-image: url();
-    background-repeat: no-repeat;
-    background-size: cover;
+    color: pink;
     padding: 10px 0;
     margin-bottom: 1px;
 }
