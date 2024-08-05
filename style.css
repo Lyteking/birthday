@@ -59,7 +59,7 @@ video {
     padding: 10px 5px;
     background-image: url();
     background-size: cover;
-    
+    background-color: pink;
 }
 .name {
     text-decoration: underline 2px pink
