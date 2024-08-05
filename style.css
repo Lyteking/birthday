@@ -6,7 +6,6 @@ body {
     width: 100%;
     margin: 0;
     font-weight: bolder;
-    background: linear-gradient(to bottom right, rgb(168, 116, 124), rgb(206, 80, 101), pink);
 }
 #pic {
     width: 300px;
@@ -30,7 +29,9 @@ body {
 }
 #tophead {
     margin: 0;
-    padding: 0;
+    padding-bottom: 10px;
+    margin-bottom: 0;
+    background: linear-gradient(to top left, rgb(168, 116, 124), rgb(206, 80, 101), pink);
 }
 video {
     width: 100%;
@@ -39,7 +40,7 @@ video {
 #gift {
     text-align: center;
     border-top: 10px solid white;
-    margin-top: 10px;
+    margin-top: 0px;
     padding: 10px 0;
 }
 .vid  {
@@ -54,15 +55,17 @@ video {
 }
 
 .messages {
-    border: 5px dotted white;
+    border: 7px dotted rgb(243, 52, 52);
     margin-bottom: 15px;
     padding: 10px 5px;
     background-image: url();
     background-size: cover;
     background-color: pink;
+    margin-left: 13px;
+    margin-right: 13px;
 }
 .name {
-    text-decoration: underline 2px pink
+    text-decoration: underline 2px rgb(235, 8, 46)
 }
 .albums {
     display: flex;
@@ -79,4 +82,8 @@ video {
 }
 #imm {
     width: 200px;
+}
+#lowerbottom {
+    background-color: rgb(228, 83, 83);
+    margin-top: 0;
 }
