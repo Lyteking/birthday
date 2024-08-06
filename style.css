@@ -66,7 +66,7 @@ video {
     margin-right: 13px;
 }
 .name {
-    text-decoration: underline 2px rgb(235, 8, 46)
+    text-decoration: underline 2px rgb(252, 110, 134)
 }
 .albums {
     display: flex;
@@ -89,8 +89,8 @@ video {
     margin-top: 0;
 }
 .videe {
-    width: 150px;
-    height: 150px
+    width: 100px;
+    height: 163px;
 }
 .bottom {
     display: flex;
