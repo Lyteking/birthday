@@ -94,6 +94,7 @@ video {
 }
 .bottom {
     display: flex;
+    margin: 0;
 }
 .immm {
     width: 200px;
