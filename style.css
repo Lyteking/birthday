@@ -110,4 +110,5 @@ video {
     display: block;
     justify-content: start;
     font-family: "Londrina Outline", sans-serif;
+    margin: 0;
 }
