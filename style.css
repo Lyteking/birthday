@@ -1,8 +1,7 @@
 body {
     font-family: "Happy Monkey", system-ui;
     font-weight: 400;
-    font-style: normal;
-    background-color: pink;
+    font-style: normal; 
     width: 100%;
     margin: 0;
     font-weight: bolder;
@@ -33,6 +32,7 @@ body {
     padding-bottom: 10px;
     margin-bottom: 0;
     background: linear-gradient(to top left, rgb(168, 116, 124), rgb(206, 80, 101), pink);
+
 }
 video {
     width: 100%;
@@ -81,10 +81,24 @@ video {
     width: 150px;
     height: 180px;
 }
-#imm {
+.imm {
     width: 200px;
 }
 #lowerbottom {
     background-color: rgb(228, 83, 83);
     margin-top: 0;
+}
+.videe {
+    width: 200px;
+    height: 50%
+}
+.bottom {
+    display: flex;
+}
+.immm {
+    width: 250px;
+}
+#videee {
+    display: flex;
+    justify-content: end;
 }
