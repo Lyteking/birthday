@@ -110,6 +110,7 @@ video {
 #part {
     display: flex;
     justify-content: space-around;
+    margin: 5px, 0;
 }
 #tag {
     margin-left: 10px;
