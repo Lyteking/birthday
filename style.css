@@ -111,4 +111,5 @@ video {
     margin-left: 10px;
     font-family: "Londrina Outline", sans-serif;
     color: pink;
+    text-shadow: 10px 3px 4px black;
 }
